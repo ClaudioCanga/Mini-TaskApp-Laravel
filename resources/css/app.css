@@ -1,0 +1,56 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group-item h5 {
+    margin: 0;
+}
+
+.btn {
+    margin-left: 5px;
+}
+
+.completed {
+    background-color: #d4edda; /* Cor de fundo verde claro */
+    text-decoration: line-through; /* Texto com linha atravessada */
+}
+
+.list-group-item {
+    border-radius: 0.25rem;
+    margin-bottom: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.badge {
+    font-size: 0.75rem;
+    padding: 0.25em 0.4em;
+    border-radius: 0.2rem;
+    display: inline-block;
+}
+
+.bg-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
