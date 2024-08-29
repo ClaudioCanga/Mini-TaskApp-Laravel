@@ -97,14 +97,13 @@ Abaixo está uma visão geral da estrutura do projeto:
 ## Capturas de Tela
 
 ### Tela de Login
-![Tela de Login](login.png)
+![Tela de Login](./images/login.png)
 
 ### Tela de Registro
-![Tela de Registro](register.png)
+![Tela de Registro](./images/register.png)
 
 ### Tela de Tarefas
-![Tela de Tarefas](tasks.png)
+![Tela de Tarefas](./images/tasks.png)
 
 ### Outras Funcionalidades
-![Outras Funcionalidades](other_features.png)
-   
+![Outras Funcionalidades](./images/other_features.png)
